@@ -4,9 +4,9 @@
 
 ​    基于PaddlePaddle的Web端多格式纠错系统，前后端分离式部署，支持文本、文档及图片的多格式智能纠错！同时支持对修正的错误字进行标记提示和结果的保存。
 
-**技术栈：**后端：FastAPI + PaddleNLP + PaddleHub；前端：Vue+ ElementUI。
+**技术栈：**  后端：FastAPI + PaddleNLP + PaddleHub；前端：Vue+ ElementUI。
 
-**项目教程：**https://aistudio.baidu.com/aistudio/projectdetail/4145528
+**项目教程：**  https://aistudio.baidu.com/aistudio/projectdetail/4145528
 
 喜欢的小伙伴希望可以送个Fork、喜欢和关注❤！
 
@@ -25,7 +25,7 @@
 
 # 三.项目演示：
 
-**演示视频：**https://www.bilibili.com/video/BV1tB4y1X7u2/
+**项目演示视频：**  https://www.bilibili.com/video/BV1tB4y1X7u2/
 
 **文本纠错界面演示：**
 
